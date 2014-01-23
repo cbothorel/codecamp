@@ -1,18 +1,18 @@
 Liste des applis
 
-NovaStat : stats de dfiffusion de titres sur la radio nova
-Playlistheric : la musique démocratique, playlist collaborative.
-AirHockey : hockey sur table
+NovaStat : stats de dfiffusion de titres sur la radio Nova
+Playlisteric :  une playlist collaborative pour une musique démocratique.
+DirtyHockey : hockey sur table miné
 AntiFlemme : défis pour lutter contre la flemme
-BlueChat : forum via bluetooth
-CaptureBall : rattrapper des balles qui tombent
-TBEvent : filtrer les notifications des événements du campus
-PhenomaTest: minis quizz 
-Rak : Menus du Rak
-Memory : retrouver les paires de cartes
+BlueChat : chat via bluetooth
+Catch the ball : jeu d'adresse qui comme son nom l'indique...
+CampEvent : affiche et personnalise les notifications des événements du campus
+PhenomaTest : minis quizz 
+andRAKoid : consultation des menus du Rak
+WhiskeyMemory : retrouver les paires de bouteilles
 What's happening : géolocalisation de photos
-OuchTrap : Labyrinthe à l'aveugle
-EasyFood : préparation de commandes, pizzas à la carte
-Shorty : liste de raccourcis clavier
+OuchTrap : faire rouler une bille pour découvrir des pièges
+EasyFood : pizzas et sandwiches à la carte
+ShortKey : bibliothèque de raccourcis clavier
 Labyrinthe
-Jeu
+MyFirstRPG : un jeu d'aventures évolutif mais déjà évolué
