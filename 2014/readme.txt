@@ -14,5 +14,4 @@ What's happening : géolocalisation de photos
 OuchTrap : faire rouler une bille pour découvrir des pièges
 EasyFood : pizzas et sandwiches à la carte
 ShortKey : bibliothèque de raccourcis clavier
-Labyrinthe
 MyFirstRPG : un jeu d'aventures évolutif mais déjà évolué
